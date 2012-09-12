@@ -1,0 +1,38 @@
+#page_1 {position:relative; overflow: hidden;margin: 20px;padding: 0px;border: none;width: 100%}
+#page_1 #id_1 {border:none;margin: 0px 0px 0px 0px;padding: 0px;border:none;width: 360px;overflow: hidden;}
+#page_1 #id_2 {border:none;margin: 128px 0px 0px 284px;padding: 0px;border:none;width: 76px;overflow: hidden;}
+
+#page_1 #dimg1 {position:absolute;top:3px;left:360px;z-index:-1;width:95px;height:140px;}
+#page_1 #dimg1 #img1 {width:95px;height:140px; margin:10px;}
+
+#dimg1 img {margin:10px;}
+
+
+#page_2 {position:relative; overflow: hidden;margin: 44px 0px 35px 48px;padding: 0px;border: none;width: 360px;}
+#page_2 #id_1 {border:none;margin: 0px 0px 0px 0px;padding: 0px;border:none;width: 360px;overflow: hidden;}
+#page_2 #id_2 {border:none;margin: 456px 0px 0px 0px;padding: 0px;border:none;width: 360px;overflow: hidden;}
+
+
+
+
+
+.ft0{font: bold 19px 'Times New Roman';line-height: 22px;}
+.ft1{font: bold 12px 'Times New Roman';line-height: 15px;}
+.ft2{font: 12px 'Times New Roman';line-height: 14px;}
+.ft3{font: 12px 'Times New Roman';line-height: 15px;}
+.ft4{font: bold 12px 'Times New Roman';line-height: 14px;}
+.ft5{font: italic bold 12px 'Times New Roman';line-height: 15px;}
+.ft6{font: italic bold 16px 'Times New Roman';line-height: 19px;}
+
+.p0{text-align: left;margin-top: 0px;margin-bottom: 0px;}
+.p1{text-align: left;padding-right: 171px;margin-top: 18px;margin-bottom: 0px;}
+.p2{text-align: left;padding-right: 208px;margin-top: 11px;margin-bottom: 0px;}
+.p3{text-align: left;margin-top: 1px;margin-bottom: 0px;}
+.p4{text-align: left;padding-right: 125px;margin-top: 0px;margin-bottom: 0px;}
+.p5{text-align: left;margin-top: 12px;margin-bottom: 0px;}
+.p6{text-align: left;margin-top: 14px;margin-bottom: 0px;}
+.p7{text-align: left;margin-top: 13px;margin-bottom: 0px;}
+.p8{text-align: left;padding-right: 101px;margin-top: 0px;margin-bottom: 0px;}
+.p9{text-align: left;padding-right: 203px;margin-top: 0px;margin-bottom: 0px;}
+.p10{text-align: left;padding-left: 1px;padding-right: 54px;margin-top: 19px;margin-bottom: 0px;}
+.p11{text-align: left;padding-left: 1px;margin-top: 11px;margin-bottom: 0px;}
